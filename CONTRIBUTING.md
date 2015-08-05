@@ -1,4 +1,4 @@
-# Contributing to Grav Smileys Data Pack -- Simple Smileys
+# Contributing to Grav Smileys Data Pack - Simple Smileys
 
 Please take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
 
